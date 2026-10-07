@@ -81,7 +81,7 @@ The heuristic score considers:
 - Profile visibility
 - Personal data exposure
 - Connected third-party apps
-- Posting frequency
+- Posting frequency.  
 - Audience size
 - Location sharing
 - Multi-factor authentication
