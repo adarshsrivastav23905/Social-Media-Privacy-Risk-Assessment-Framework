@@ -17,7 +17,7 @@ Cybersecurity | Privacy | Python | Streamlit
 The **Social Media Privacy Risk Assessment Framework** is a local, interactive assessment tool for reviewing privacy and account-security settings across common social platforms. It calculates a heuristic risk score, classifies the result, highlights contributing factors, and provides tailored actions to reduce exposure.
 
 The app includes an illustrative sample assessment so the dashboard opens with a complete example. Users can change the form inputs and submit a new assessment. Results and settings are calculated in the current app session; the app does not connect to social media accounts or store account history.
-
+  
 This project is an educational screening prototype. Its score is not a validated measure, platform audit, legal determination, or guarantee of account security.
 
 ---
