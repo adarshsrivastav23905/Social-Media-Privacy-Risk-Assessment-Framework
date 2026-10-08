@@ -46,7 +46,7 @@ This project is an educational screening prototype. Its score is not a validated
 - Personalized recommendations based on selected settings.
 - Downloadable PDF report containing the assessment summary and profile settings.
 - Premium dark Streamlit dashboard with a branded NexaGuard header.
-- Twelve screenshot examples in the `screenshots/` directory.
+- Twelve screenshot examples in the `screenshots/` directory.    
 
 ---
 
